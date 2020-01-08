@@ -13,7 +13,7 @@ php -S localhost:8080
 ```
 
 
-!['screen'](./screen.jpg)
+![screen](screen.jpg)
 
 
 > English Doc
